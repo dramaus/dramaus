@@ -1,0 +1,8 @@
+{
+  "name": "Dramaus - AI Comic & Short Drama Platform",
+  "description": "A professional-grade AI-powered platform for creating comics and short dramas, empowering everyone to be their own director.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
